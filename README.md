@@ -1,2 +1,2 @@
 # squarethumb
-Git tutoril html file
+Git tutorial html file
