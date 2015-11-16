@@ -1,0 +1,2 @@
+# squarethumb
+Squarethumb website files.
