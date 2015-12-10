@@ -2,4 +2,4 @@
 
 Description:
 
-Squarethumb website files.
+webiste files
