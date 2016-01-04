@@ -1,5 +1,1 @@
 # squarethumb
-
-Description:
-
-webiste files
